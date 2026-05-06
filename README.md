@@ -179,6 +179,3 @@ The application uses a custom fine-tuned model for authentic Gossip Girl content
 - Tailwind CSS (styling framework)
 - Axios (HTTP client for API calls)
 
-## Contributing
-
-Feel free to submit issues and pull requests to help improve the app!
