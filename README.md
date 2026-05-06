@@ -1,6 +1,6 @@
 # Gossip Girl Bot
 
-An AI-powered gossip girl app inspired by the TV series Gossip Girl that brings the drama of the Upper East Side to life! This application uses fine-tuned Large Language Models (LLMs) to generate authentic Gossip Girl-style content. Users submit anonymous tips about characters, and the AI transforms them into scandalous "blasts" using a custom-trained model served through Ollama.
+An AI-powered Gossip Girl app inspired by the TV series Gossip Girl that brings the drama of the Upper East Side to life! This application uses fine-tuned Large Language Models (LLMs) to generate authentic Gossip Girl-style content. Users submit anonymous tips about characters, and the AI transforms them into scandalous "blasts" using a custom-trained model served through Ollama.
 
 The app features a sophisticated AI pipeline that includes:
 - **Custom Fine-tuned Model**: Trained on domain-specific gossip data using Ollama's training framework
